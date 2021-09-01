@@ -1,6 +1,5 @@
 const token = "Bot Token OWO";
 const prefix = "deno ";
+const owner_id = "owner_id";
 
-export {
-    token, prefix
-}
+export { prefix, token, owner_id };

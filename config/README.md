@@ -5,6 +5,7 @@
 ```ts
 const token = "Bot Token OWO";
 const prefix = "deno ";
+const owner_id = "owner_id";
 
-export { prefix, token };
+export { owner_id, prefix, token };
 ```
