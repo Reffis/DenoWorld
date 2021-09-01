@@ -1,2 +1,2 @@
-import Ping from './ping.ts';
-export default {Ping};
+import Ping from "./ping.ts";
+export default { Ping };
