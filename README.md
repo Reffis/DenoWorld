@@ -8,5 +8,5 @@ Discord Bot With Deno 💖
 ```sh
 git clone https://github.com/Reffis/DenoWorld.git
 cd DenoWorld
-start.bat
+./start.bat
 ```
