@@ -6,7 +6,5 @@
 const token = "Bot Token OWO";
 const prefix = "deno ";
 
-export {
-    token, prefix
-}
+export { prefix, token };
 ```
